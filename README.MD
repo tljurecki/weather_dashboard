@@ -33,4 +33,4 @@ Momentjs
 <img width="1728" alt="Screen Shot 2022-04-04 at 3 22 41 PM" src="https://user-images.githubusercontent.com/99137308/161618065-3c8d6a4d-2688-457f-aea3-35d308cda652.png">
 
 ### Link to page
- https://tljurecki.github.io/weather-dashboard/
+ https://tljurecki.github.io/weather_dashboard/
