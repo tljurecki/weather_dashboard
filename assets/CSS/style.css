@@ -1,0 +1,91 @@
+header {
+    width: 100%;
+    background: linear-gradient(to right, #3b6dc3, #230555);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    padding: .5vw;
+    color: white;
+    font-weight: bolder;
+}
+
+#sidebar label, input, button {
+    width: 100%;
+    margin-bottom: 1.5vh;
+}
+
+#search-history-container button {
+    background-color: #b7b7b7;
+}
+
+#search-btn {
+    background-color: #5aa2e9;
+    color: white;
+}
+
+.search-div {
+    border-bottom: 2px solid gray;
+}
+
+#search-history-container {
+    margin-top: 1.5vh;
+}
+
+#sidebar label {
+    font-size: 3.5vh;
+    font-weight: bolder;
+}
+
+#sidebar input {
+    height: 5vh;
+}
+
+#main-window {
+    border: 1px solid black;
+    min-height: 25vh;
+    width: 100%;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 4vh;
+    display: inline-block;
+}
+
+h3 {
+    font-weight: bolder;
+    font-size: 3vh;
+}
+
+.five-days {
+    min-height: 24vh;
+    background-color: #33457a;
+}
+
+.five-days h4 {
+    color: white;
+}
+
+.uv-favorable {
+    background-color: green;
+    border-radius: 5px;
+    padding: 1px 8px;
+    color: black;
+}
+
+.uv-moderate {
+    background-color: rgb(255, 255, 0);
+    border-radius: 5px;
+    padding: 1px 8px;
+    color: black;
+}
+
+.uv-severe {
+    background-color: red;
+    border-radius: 5px;
+    padding: 1px 8px;
+    color: black;
+}
